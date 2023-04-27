@@ -1,0 +1,14 @@
+.vl {
+  border-left: 1px solid #8892b0;
+  height: 90px;
+  left: 50%;
+  margin-left: 50%;
+  top: 0;
+}
+.vr {
+  border-left: 1px solid #8892b0;
+  height: 90px;
+  right: 50%;
+  margin-left: 50%;
+  top: 0;
+}
